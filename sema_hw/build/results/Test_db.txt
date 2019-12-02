@@ -1,0 +1,36 @@
+Database does NOT exist
+Match NOT Found!
+Match Found!
+test/Test_db.c:242:test_db_find:PASS
+Database does NOT exist
+File was not opened. Errno = 2
+10 does not exist in specified database 
+Database does NOT exist
+test/Test_db.c:243:test_db_delete:PASS
+File was not opened. Errno = 2
+test/Test_db.c:244:test_db_open:PASS
+Index too large! Drop it down.
+wrongCli is not recognized. Did you mean dbcli?
+ is not recognized. Did you mean dbcli?
+File name too long.
+Illegal characters found in file name. Please use a different file name.
+Illegal characters found in file name. Please use a different file name.
+Illegal characters found in file name. Please use a different file name.
+Illegal characters found in file name. Please use a different file name.
+Illegal characters found in file name. Please use a different file name.
+Illegal characters found in file name. Please use a different file name.
+Illegal characters found in file name. Please use a different file name.
+Illegal characters found in file name. Please use a different file name.
+Command usurp is not a valid command.
+Command  is not a valid command.
+You entered an invalid ID
+You entered an invalid ID
+test/Test_db.c:245:test_db_sanitize:PASS
+Index Already Exists
+Insert Successful
+10 successfully deleted from database
+test/Test_db.c:246:test_db_insert:PASS
+
+-----------------------
+5 Tests 0 Failures 0 Ignored 
+OK

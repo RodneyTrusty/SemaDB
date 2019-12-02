@@ -45,7 +45,7 @@ Selecting Y creates a new database with the specified name
 Selecting N aborts the insert
 
 ### Find
-The find command searches the specified database and confirms wheter or not a specified index exists or not. 
+The find command searches the specified database and confirms wheter or not a specified index exists. 
 ```bash
 ## Look for the index "1991" inside the "myDB" database
 
